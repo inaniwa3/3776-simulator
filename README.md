@@ -57,8 +57,8 @@ Windows 7
     * 速くすると、ドップラー効果がかかるのがわかります。ただ、速すぎると音楽の同期がずれてしまうので、ご注意ください。
 * Audio File for the Left/Right Stage
     * 向かって左／右側のステージから流れる音楽ファイルです。
-    * wavフォーマット（サンプリング周波数48kHz以下）にしか対応していません。ない場合は変換する必要があります。
-        * OTOTOYで買えるwavファイルはサンプリング周波数が96kHzなので、48kHz以下に変換する必要があります（96kHzのままでも再生できますが、ノイズが乗ります）。
+    * wavフォーマット（サンプリング周波数48kHz以下）にしか対応していません。ない場合は自前で用意しておく必要があります。
+        * OTOTOYで買えるwavファイルはサンプリング周波数が96kHzなので、48kHz以下に変換する必要があります（96kHzのままでも一応再生できますが、ノイズが乗る場合があります）。
         * wavファイルを96kHzから48kHzに変換するのには「[SoundEngine Free](http://soundengine.jp/software/soundengine/)」が使えます。手順は「[フォーマット変換画面](http://soundengine.jp/wordpress/soundengine_help/index/view/format_convert_view/)」に詳しいです。
     * ファイル選択後、選択したファイル名が表示されるまで、しばらく待つ場合があります。この間は、選択した音楽ファイルをロードしています。
 * Delay Time (sec)
@@ -93,11 +93,9 @@ Windows 7
 サンプルとして、以下のフリーの音楽素材を一部加工して使用しています。
 
 * LeftSample.wav
-    * 「アラブの遺跡」 written by Yuli
-    * http://dova-s.jp/bgm/play7444.html
+    * 「[アラブの遺跡](http://dova-s.jp/bgm/play7444.html)」 written by Yuli
 * RightSample.wav
-    * 「glitch piano」 written by Yuli
-    * http://dova-s.jp/bgm/play7216.html
+    * 「[glitch piano](http://dova-s.jp/bgm/play7216.html)」 written by Yuli
 
 
 
