@@ -1,7 +1,7 @@
-# 3776 Link Mode simulator
+# 3776 Link Mode Simulator
 
 富士山ご当地アイドルグループ「3776（みななろ）」のライブを再現？できます。  
-アルバム「公開実験」の静岡版／山梨版の両方の音楽ファイル（wavフォーマット）が必要です。
+アルバム「公開実験」の[静岡版](http://ototoy.jp/_/default/p/76737)／[山梨版](http://ototoy.jp/_/default/p/76736)の両方の音楽ファイル（wavフォーマット）が必要です。
 
 
 
